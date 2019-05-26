@@ -9,4 +9,4 @@ Use sklearn to train/test two different models for sentiment analysis of movie r
 ````
 python movie.py trainDir outputFileNB outputFileLSV
 ````
-This command will run the python file, using __trainDir__ as the location of all your training data folders (should be labeled __pos__ and __neg__, __etc__), and will output the information for the Naive Bayes and Linear Support Vector classifiers modeled in this project into __outputFileNB__ and __outputFileLSV__ respectively. See [exampleOutput](movie.py) for my results.
+This command will run the python file, using __trainDir__ as the location of all your training data folders (should be labeled __pos__ and __neg__, __etc__), and will output the information for the Naive Bayes and Linear Support Vector classifiers modeled in this project into __outputFileNB__ and __outputFileLSV__ respectively. See [exampleOutput](exampleOutput/) for my results.
