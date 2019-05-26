@@ -1,4 +1,4 @@
-# NLP-Movie_Review
+# NLP_Movie_Review
 Use sklearn to train/test two different models for sentiment analysis of movie reviews.
 
 ## Prerequisites for Use:
