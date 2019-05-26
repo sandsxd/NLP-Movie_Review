@@ -1,6 +1,14 @@
 # NLP-Movie_Review
 Use sklearn to train/test two different models for sentiment analysis of movie reviews.
 
+## Prerequisites for Use:
+This project uses __Python 3.7__
+Your machine should have the following libraries installed (via pip or your preferred method)
+- numpy (>= 1.11.0)
+- sciyp (>= 0.17.0)
+- joblib (>= 0.11)
+- sklearn
+
 ## Usage:
 ###### 1. Clone the repository
 ###### 2. Download the IMDB movie review database [here](https://ai.stanford.edu/~amaas/data/sentiment/)
