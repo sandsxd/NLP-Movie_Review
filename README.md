@@ -12,7 +12,7 @@ Your machine should have the following libraries installed (via pip or your pref
 ## Usage:
 ##### 1. Clone the repository
 ##### 2. Download the IMDB movie review database [here](https://ai.stanford.edu/~amaas/data/sentiment/)
-###### Remove everything from the __train__ and __test__ directories within the database except the __pos__ and __neg__ subdirectories
+###### Remove everything from the __train__ directory within the database except the __pos__ and __neg__ subdirectories
 ##### 3. Open your command line and navigate to the directory you cloned in step 1.
 ##### 4. In your command line, run the movie.py file using the following command:
 ````
